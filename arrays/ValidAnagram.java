@@ -47,3 +47,5 @@ class Solution {
     }
 }
 
+//Complejidad: O(n)
+//Uso un arreglo de frecuencias de 26 letras.
