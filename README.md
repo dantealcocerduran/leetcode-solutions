@@ -11,3 +11,8 @@ leetcode-solutions
 - Learned Java streams basics
 - Added two LeetCode problems: Valid Anagram, Contains Duplicate
 - Created Task model, repository, GET endpoint in Spring Boot
+
+# Day 3 Progress
+- Java: HashMap, TreeMap, Collections sorting, frequencies
+- LeetCode: Best Time to Buy and Sell Stock, Maximum Subarray (Kadane)
+- Spring Boot: POST /tasks, PUT /tasks/{id} endpoints
